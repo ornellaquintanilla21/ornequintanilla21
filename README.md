@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.svg" alt="Ornella Quintanilla — Datos, moda y creatividad" width="100%">
+  <img src="header.svg" alt="Ornella Quintanilla — Ciencia de Datos" width="100%">
 </p>
 
 <br>
@@ -51,12 +51,15 @@
 
 <p align="center"><sub>IV &nbsp;·&nbsp; MI ENFOQUE</sub></p>
 
-> *Me gusta entender **por qué** algo funciona, no solo aprender a reproducirlo.*
+<p align="center">
+  <i>Me gusta entender <b>por qué</b> algo funciona, no solo aprender a reproducirlo.</i>
+</p>
 
 <p align="center">
-  Soy curiosa por naturaleza y tiendo a conectar ideas de distintas áreas:<br>
-  tecnología con diseño, datos con comportamiento humano, análisis con creatividad.<br>
-  Busco que mi trabajo sea técnicamente sólido, pero también visual y conceptualmente significativo.
+  Me tomo el tiempo necesario para comprender cada tema en profundidad:<br>
+  creo que el verdadero aprendizaje pide paciencia, atención y dedicación.<br>
+  Vivo esta carrera con genuino interés. Cada materia, desde la más técnica<br>
+  hasta la más conceptual, deja algo valioso y suma a una forma más completa de pensar.
 </p>
 
 <br>
@@ -93,7 +96,21 @@
 
 <br>
 
-<p align="center"><sub>VII &nbsp;·&nbsp; ACTUALMENTE EXPLORANDO</sub></p>
+<p align="center"><sub>VII &nbsp;·&nbsp; IDIOMAS</sub></p>
+
+<div align="center">
+
+| | |
+|:--|:--|
+| Español | <sub>NATIVO</sub> |
+| Inglés | <sub>B2</sub> |
+| Italiano | <sub>B1</sub> |
+
+</div>
+
+<br>
+
+<p align="center"><sub>VIII &nbsp;·&nbsp; ACTUALMENTE EXPLORANDO</sub></p>
 
 <p align="center">
   Fashion analytics &nbsp;·&nbsp; Luxury & retail analytics &nbsp;·&nbsp; Consumer insights<br>
@@ -102,14 +119,8 @@
 
 <br>
 
-<p align="center"><sub>VIII &nbsp;·&nbsp; CONTACTO</sub></p>
+<p align="center"><sub>IX &nbsp;·&nbsp; CONTACTO</sub></p>
 
 <p align="center">
   <a href="mailto:ornellaquintanilla21@gmail.com">ornellaquintanilla21@gmail.com</a>
-</p>
-
-<br>
-
-<p align="center">
-  <sub><i>Datos, diseño y atención al detalle.</i></sub>
 </p>
